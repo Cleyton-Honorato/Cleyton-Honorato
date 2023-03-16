@@ -9,7 +9,7 @@
   <h2 align="center">stacks.
 <p align="center">
   <a align="center" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,redux,nodejs,express,mongo,postgres,jest,mui,styledcomponents,git,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,vue,ts,redux,nodejs,mongo,jest,styledcomponents,git,tailwind,graphql&theme=dark" />
   </a>
 </p>
 </h2>
