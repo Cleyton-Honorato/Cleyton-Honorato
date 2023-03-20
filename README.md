@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-Honorato&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
   
-  <h2 align="center">stacks.
+  <h2 align="center">Stacks
 <p align="center">
   <a align="center" href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,vue,ts,redux,nodejs,mongo,jest,styledcomponents,git,tailwind,graphql&theme=dark" />
@@ -14,7 +14,7 @@
 </p>
 </h2>
 
-<h2 align="center">social media.
+<h2 align="center">Social media
 <div align="center"> 
   <a href="https://www.instagram.com/cleytin_1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:honoraro55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
