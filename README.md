@@ -1,27 +1,29 @@
-### Hi there 👋
 
-<div align="center">
-  <a href="https://github.com/Cleyton-Honorato">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cleyton-Honorato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-Honorato&layout=compact&langs_count=7&theme=dracula"/> -->
-</div>
-  
-  <h2 align="center">Stacks
-<p align="center">
-  <a align="center" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,vue,ts,redux,nodejs,mongo,jest,styledcomponents,git,tailwind,graphql&theme=dark" />
-  </a>
+<img align="right"  width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-Honorato&layout=compact&langs_count=6&theme=tokyonight" />
+<p align="left">
+  Speak up! call me <strong> Cleyton</strong>. I'm happy to see you here!
 </p>
-</h2>
 
-<h2 align="center">Social media
-<div align="center"> 
-  <a href="https://www.instagram.com/cleytin_1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:honoraro55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cleyton-honorato-a5586215a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+<p align="left">
+  In my repositories there is a lot of what I have learned and put into practice mainly in <strong>Web and Mobile</strong> applications
+</p>
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-Honorato&layout=compact&langs_count=6&theme=tokyonight" />
+<p align="left">
+  💼 Frameworks and langs: <strong>JavaScript, TypeScript, React.js, React-Native, Next.js, Redux, Graphql and others...</strong>
+</p>
 
-</h2>
+<p align="left">
+  🌱 Tools: <strong>VSCode, Figma, Git...</strong>
+</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/cleytin_1" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  
+  <a href="https://www.linkedin.com/in/cleyton-honorato-a5586215a/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+  <a href="https://www.facebook.com/elzevir.sa.filho/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
