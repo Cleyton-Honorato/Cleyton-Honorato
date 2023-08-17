@@ -22,8 +22,5 @@
   
   <a href="https://www.linkedin.com/in/cleyton-honorato-a5586215a/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-  <a href="https://www.facebook.com/elzevir.sa.filho/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
