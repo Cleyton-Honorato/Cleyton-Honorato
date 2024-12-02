@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/cleytin_1" alt="Instagram">
+  <a href="https://www.instagram.com/cleytin.1" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   
   <a href="https://www.linkedin.com/in/cleyton-honorato-a5586215a/" alt="Linkedin">
